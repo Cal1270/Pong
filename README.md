@@ -6,4 +6,6 @@ Pour commencer, PONG_.ino contient ma version du code finalisé si vous voulez v
 
 
 Sinon, voici les étapes nécessaires pour la création de votre PONG!
+https://collegestpaul-my.sharepoint.com/:w:/g/personal/lavc2622918_collegestpaul_ca/EUxX8h6Mp_BAh8lO31oVGMABEwGxYCj0wpaARU1iNEdyew
+
 
